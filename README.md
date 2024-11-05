@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @codewithpablo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi there! I'm Pablo Alonso
 
-<!---
-codewithpablo/codewithpablo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate full-stack developer with experience in various technologies.
+My goal is to create efficient and scalable web applications that solve real-world problems.
+
+## 🚀 Skills
+
+- **Languages:** Python, JavaScript, TypeScript
+- **Frameworks:** React, Next.js, Django, Django Rest Framework
+- **Databases:** PostgreSQL, MySQL
+- **Tools & Technologies:** TailwindCSS, Shad-CN
+
+## 💬 Let's Connect
+
+- **LinkedIn:** www.linkedin.com/in/pabloalonsonext
+- **Email:** pabloalonsonext@gmail.com
+
